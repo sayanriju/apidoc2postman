@@ -1,0 +1,21 @@
+{
+  "name": "@sayanriju/apidoc2postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "doc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^4.1.1",
+    "cuid": "^2.1.8",
+    "postman-collection": "^3.6.1"
+  },
+  "bin": {
+    "@sayanriju/apiodc2postman": "bin/index.js",
+    "apiodc2postman": "bin/index.js"
+  }
+}
